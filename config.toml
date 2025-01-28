@@ -7,7 +7,7 @@ name = "IP Blockchain"
 public_key = "eafdcd394f66a2043dd4dd44f0280831a383c9dd2ddef29a79599aada87f3d77"
 
 [[chains]]
-name = "ipblockchain-testnet"
+name = "ipblockchain"
 title = "IP Blockchain Testnet"
 color = "#00ccBB"
 icon = "https://storage.openlicense.ai/public/ipchain.svg"
