@@ -1,9 +1,11 @@
-const ETHEREUM_CHAINS: [&str; 10] = [
+const ETHEREUM_CHAINS: [&str; 12] = [
     "jaz",
     "moonbase",
     "moonbeam",
     "moonriver",
     "moonshadow",
+    "ipblockchain",
+    "ipblockchain-testnet",
     "alt-producer",
     "flash-layer",
     "armonia-eva",
